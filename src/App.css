@@ -5,6 +5,16 @@
   width: 800px; 
   margin: 0 auto;
 }
+.pokemon-app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.pokemon-app__load-more{
+  padding: 10px;
+
+
+}
 
 .promo-card {
   border : 2px solid #f1f1f1;
